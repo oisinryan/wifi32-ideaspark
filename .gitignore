@@ -1,0 +1,11 @@
+# Local WiFi credentials — never commit the real file
+secrets.h
+
+# Arduino / build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# macOS
+.DS_Store
